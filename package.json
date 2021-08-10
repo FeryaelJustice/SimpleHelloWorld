@@ -1,0 +1,13 @@
+{
+  "name": "simplehelloworld",
+  "version": "1.0.0",
+  "description": "A simple Hello World package, it only prints a hello world.",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["simplehelloworld"],
+  "author": "FeryaelJustice",
+  "license": "ISC"
+}
