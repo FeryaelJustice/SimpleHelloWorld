@@ -17,7 +17,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FeryaelJustice/SimpleHelloWorld"
+    "url" : "git://github.com/FeryaelJustice/SimpleHelloWorld.git"
   },
   "bugs": {
     "url": "https://github.com/FeryaelJustice/SimpleHelloWorld/issues"
