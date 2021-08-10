@@ -7,7 +7,17 @@
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": ["simplehelloworld"],
+  "keywords": [
+    "simplehelloworld"
+  ],
   "author": "FeryaelJustice",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeryaelJustice/SimpleHelloWorld"
+  },
+  "bugs": {
+    "url": "https://github.com/FeryaelJustice/SimpleHelloWorld/issues"
+  },
+  "homepage": "https://github.com/FeryaelJustice/SimpleHelloWorld#readme"
 }
